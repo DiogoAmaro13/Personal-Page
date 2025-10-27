@@ -1,1 +1,1 @@
-Recent projects
+Gallery of recent projects.
