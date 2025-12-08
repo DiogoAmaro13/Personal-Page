@@ -221,7 +221,7 @@ nav {
 
 
 .gallery__container {
-    display: grid;
+    display: flex;
     gap: 1rem;
     grid-auto-rows: 300px;
 }
@@ -229,6 +229,7 @@ nav {
 .gallery__image {
     position: relative;
     isolation: isolate;
+    height: 616px;
 }
 
 .gallery__image img {
@@ -255,7 +256,7 @@ nav {
 }
 
 .gallery__image__details h4 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 500;
     color: #ffff;
 }
